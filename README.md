@@ -8,7 +8,6 @@ This a PicBed Repo!
 # github 图床
 
 - 使用 github 做图床，配合PicGo 或者 chrome 插件 Picee 来上传图片到图片仓库。
-https://github.com/sthwhl/Gallery/blob/master/gallery/qhh_0.jpg?raw=true
 
 - 访问大图片会下载：
 https://raw.githubusercontent.com/sthwhl/Gallery/master/gallery/qhh_0
@@ -23,7 +22,7 @@ https://raw.githubusercontent.com/sthwhl/Gallery/master/gallery-tiny/lock.png
 
 - 使用方法：https://cdn.jsdelivr.net/gh/用户名/仓库名@发布的版本号/文件路径
 
-https://cdn.jsdelivr.net/gh/user/repo@version/file
+- https://cdn.jsdelivr.net/gh/user/repo@version/file
 
 例：https://cdn.jsdelivr.net/gh/sthwhl/Gallery@master/gallery/qhh_0.jpg
 
